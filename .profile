@@ -1,0 +1,1 @@
+export BOOK_DB_DSN='postgres://postgres:1234@localhost/book?sslmode=disable'
